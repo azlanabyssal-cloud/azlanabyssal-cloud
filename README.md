@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hey, I'm Azlan 👋
 
-<!--
-**azlanabyssal-cloud/azlanabyssal-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year B.Tech CSE (AI & ML) at GPREC, Kurnool.
+Still early — but I build things to learn faster.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ fraudshell
+Digital fraud awareness platform for India. Verified I4C data,
+1930 cybercrime helpline, step-by-step recovery guide, 6 animated
+mascots for non-tech users. Open source community project.
+
+🔗 [github.com/azlanabyssal-cloud/fraudshell](https://github.com/azlanabyssal-cloud/fraudshell)
+
+### ✅ todolist-by-azlan
+TypeScript PWA — offline-first sync, Pomodoro timer, custom cursors,
+touch trail, cinematic intro. My first serious TypeScript project.
+
+🔗 [github.com/azlanabyssal-cloud/todolist-by-azlan](https://github.com/azlanabyssal-cloud/todolist-by-azlan)
+
+---
+
+### Currently
+- 📚 Learning Python for Data Science (IBM on Coursera)
+- - 🚀 Shortlisted for Infosys Springboard Virtual Internship 7.0
+  - - 🎯 Building toward product company placement (2027)
+   
+    - ### Stack so far
+    - `HTML` `CSS` `TypeScript` `Python` `Git`
+   
+    - ### Education
+    - B.Tech CSE (AI & ML) — GPREC, Kurnool | 2023–2027
