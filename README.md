@@ -1,39 +1,46 @@
 ## Azlan. 19. Kurnool. 👋
 
-B.Tech CSE (AI & ML) @ GPREC — sem 4 just done.
-Building things while figuring out the bigger picture.
+B.Tech CSE (AI & ML) @ GPREC — Semester 4 cleared.
+I build things. I break things. Then I ship them anyway.
 
-Scored 92% in SSC. Picked AI & ML because it felt like where everything is going.
-Still a beginner. The kind that ships.
+Scored 92% in SSC — not to flex, but because I knew early that effort compounds.
+Picked AI & ML because I didn't want to watch the future happen. I want to build it.
 
 ---
 
 ### what I've built
 
 **[fraudshell](https://github.com/azlanabyssal-cloud/fraudshell)**
-Started as a college project. Became something I actually care about.
-Digital fraud awareness platform for India — I4C verified data, 1930 cybercrime
-helpline, recovery guide, 6 animated mascots. Built for people in my city who
-wouldn't know where to turn if they got scammed online.
-`HTML` · open source
+This started as a college project. It stopped being one pretty fast.
+Millions of Indians get scammed online every year and have no idea what to do next.
+I built this for them — verified by I4C, integrated with the 1930 cybercrime helpline,
+full recovery guide, 6 animated mascots to make it actually approachable.
+Built specifically for people in Kurnool who'd otherwise have nowhere to turn.
+This one means something to me.
 
 **[todolist-by-azlan](https://github.com/azlanabyssal-cloud/todolist-by-azlan)**
-Went further than it needed to. TypeScript PWA — offline-first sync, Pomodoro
-timer, custom cursors, touch trail, cinematic intro. Built it to actually learn
-TypeScript. Learned a lot.
-`TypeScript` · PWA
+I could've built a basic to-do list. I didn't.
+TypeScript PWA — offline-first, Pomodoro timer, custom cursors, touch trail, cinematic intro.
+Was it necessary? No. Did I learn TypeScript properly because of it? Absolutely.
 
 ---
 
 ### right now
-- grinding Python + DSA — targeting product company placement by 2027
-- - IBM Python for Data Science on Coursera
-  - - shortlisted: Infosys Springboard Virtual Internship 7.0
-    - - building consistency on HackerRank
-     
-      - ### stack
-      - `HTML` `CSS` `TypeScript` `Python` `Git`
-     
-      - ### education
-      - B.Tech CSE (AI & ML) — GPREC, Kurnool | 2023–2027
-      - SSC — Sri Chaitanya EM High School, Kurnool | 92.1% (2022)
+
+- Deep in Python + DSA — targeting a product company by 2027, not just any placement
+- IBM Python for Data Science @ Coursera — actually doing the labs, not just watching
+- Shortlisted for Infosys Springboard Virtual Internship 7.0
+- Showing up on HackerRank daily — consistency over motivation
+
+### stack
+
+`HTML` `CSS` `TypeScript` `Python` `Git`
+
+### education
+
+B.Tech CSE (AI & ML) — GPREC, Kurnool | 2024–2028
+SSC — Sri Chaitanya EM High School, Kurnool | 92.1% (2022)
+
+---
+
+Still early. Building anyway.
