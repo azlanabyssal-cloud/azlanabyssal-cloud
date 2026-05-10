@@ -23,6 +23,18 @@ I could've built a basic to-do list. I didn't.
 TypeScript PWA — offline-first, Pomodoro timer, custom cursors, touch trail, cinematic intro.
 Was it necessary? No. Did I learn TypeScript properly because of it? Absolutely.
 
+**python cli series** — built these while getting serious about python. each one connects to a real api or solves a real problem.
+
+| project | what it does |
+|---------|-------------|
+| [pnr status checker](https://github.com/azlanabyssal-cloud/pnr-status-checker) | live railway pnr status — rich colored tables, passenger berth details, search history |
+| [cricket score fetcher](https://github.com/azlanabyssal-cloud/cricket-score-fetcher) | live scores from cricapi, filter by team, 5-min cache to stay inside free api limits |
+| [expense tracker](https://github.com/azlanabyssal-cloud/expense-tracker) | track daily expenses by category, ascii bar chart right in terminal, csv export |
+| [news headline fetcher](https://github.com/azlanabyssal-cloud/news-headline-fetcher) | top indian headlines by category — builds a dated txt archive every time you run it |
+| [number guessing game](https://github.com/azlanabyssal-cloud/number-guessing-game) | 3 difficulty levels, "getting warmer" hints, json leaderboard that saves top 5 scores |
+| [to-do list cli](https://github.com/azlanabyssal-cloud/my-todo-list-cli) | add, delete, complete tasks — saved to json so nothing disappears when you close it |
+| [python calculator](https://github.com/azlanabyssal-cloud/my-python-calculator) | where it all started |
+
 ---
 
 ### right now
