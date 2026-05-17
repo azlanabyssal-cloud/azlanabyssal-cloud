@@ -34,21 +34,21 @@ Was it necessary? No. Did I learn TypeScript properly because of it? Absolutely.
 | [number guessing game](https://github.com/azlanabyssal-cloud/number-guessing-game) | 3 difficulty levels, "getting warmer" hints, json leaderboard that saves top 5 scores |
 | [to-do list cli](https://github.com/azlanabyssal-cloud/my-todo-list-cli) | add, delete, complete tasks — saved to json so nothing disappears when you close it |
 
-**python dsa and placement prep** — built these while going deep into algorithms and interview preparation.
+**python dsa** — started taking algorithms seriously. built these while prepping for placements.
 
 | project | what it does |
 |---------|-------------|
-| [algorithm race](https://github.com/azlanabyssal-cloud/python-projects/tree/main/algorithm-race) | bubble, merge and quick sort racing each other — shows every step, comparison count, final ranking |
-| [dsa playground](https://github.com/azlanabyssal-cloud/python-projects/tree/main/dsa-playground) | linked list, stack, queue and bst built from scratch — full menu, bst search shows step count |
-| [aptitude quiz](https://github.com/azlanabyssal-cloud/python-projects/tree/main/aptitude-quiz) | timed placement quiz — quant, logical, verbal, python — weak topic detection, score history |
+| [algorithm race](https://github.com/azlanabyssal-cloud/python-projects/tree/main/algorithm-race) | bubble, merge and quick sort competing live — every step visible, you can see where each one slows down |
+| [dsa playground](https://github.com/azlanabyssal-cloud/python-projects/tree/main/dsa-playground) | linked list, stack, queue and bst coded from scratch — full menu, bst shows how many steps each search took |
+| [aptitude quiz](https://github.com/azlanabyssal-cloud/python-projects/tree/main/aptitude-quiz) | placement quiz i actually use to prep — 10 random questions, 30s each, tells me what i'm weak at |
 | [python calculator](https://github.com/azlanabyssal-cloud/python-projects) | where it all started |
 
 ---
 
 ### right now
 
-- Going deep on DSA — built sorting algorithm visualizer and data structures from scratch
-- Placement prep — aptitude, Python, problem solving daily
+- learning DSA properly — sorting algorithms and data structures built from scratch, not just theory
+- placement prep every day — aptitude, python, problem solving
 - IBM Python for Data Science @ Coursera — actually doing the labs, not just watching
 - Shortlisted for Infosys Springboard Virtual Internship 7.0
 - Showing up on HackerRank daily — consistency over motivation
