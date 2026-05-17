@@ -33,13 +33,22 @@ Was it necessary? No. Did I learn TypeScript properly because of it? Absolutely.
 | [news headline fetcher](https://github.com/azlanabyssal-cloud/news-headline-fetcher) | top indian headlines by category — builds a dated txt archive every time you run it |
 | [number guessing game](https://github.com/azlanabyssal-cloud/number-guessing-game) | 3 difficulty levels, "getting warmer" hints, json leaderboard that saves top 5 scores |
 | [to-do list cli](https://github.com/azlanabyssal-cloud/my-todo-list-cli) | add, delete, complete tasks — saved to json so nothing disappears when you close it |
-| [python calculator](https://github.com/azlanabyssal-cloud/my-python-calculator) | where it all started |
+
+**python dsa and placement prep** — built these while going deep into algorithms and interview preparation.
+
+| project | what it does |
+|---------|-------------|
+| [algorithm race](https://github.com/azlanabyssal-cloud/python-projects/tree/main/algorithm-race) | bubble, merge and quick sort racing each other — shows every step, comparison count, final ranking |
+| [dsa playground](https://github.com/azlanabyssal-cloud/python-projects/tree/main/dsa-playground) | linked list, stack, queue and bst built from scratch — full menu, bst search shows step count |
+| [aptitude quiz](https://github.com/azlanabyssal-cloud/python-projects/tree/main/aptitude-quiz) | timed placement quiz — quant, logical, verbal, python — weak topic detection, score history |
+| [python calculator](https://github.com/azlanabyssal-cloud/python-projects) | where it all started |
 
 ---
 
 ### right now
 
-- Deep in Python + DSA — targeting a product company by 2027, not just any placement
+- Going deep on DSA — built sorting algorithm visualizer and data structures from scratch
+- Placement prep — aptitude, Python, problem solving daily
 - IBM Python for Data Science @ Coursera — actually doing the labs, not just watching
 - Shortlisted for Infosys Springboard Virtual Internship 7.0
 - Showing up on HackerRank daily — consistency over motivation
